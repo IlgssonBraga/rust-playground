@@ -9,14 +9,14 @@ At this point, you can select the default option (1):
 
 <img src="../assets/install-rust.png" />
 
-Will be installed the rustc, cargo, clippy, rust-docs, rust-std, rustfmt. Now, you can run:
+Rustc, cargo, clippy, rust-docs, rust-std and rustfmt will be installed. 
+
+Now, to configure the current shell, you can run:
 
 
 ```bash 
 source $HOME/.cargo/env
 ```
-
-to configure the current shell.
 
 To check the versions of rustc and cargo, run:
 
